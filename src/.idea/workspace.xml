@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82dbd713-0fad-4f35-bd3f-388d9b8f8f42" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/akka-learning-kochi-pod/src/main/java/com/lightbend/akka/sample/AkkaPOC.java" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/akka-learning-kochi-pod/src/main/java/com/lightbend/akka/sample/AkkaPOC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/akka-learning-kochi-pod/src/main/java/com/lightbend/akka/sample/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/akka-learning-kochi-pod/src/main/java/com/lightbend/akka/sample/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/akka-learning-kochi-pod/src/main/java/com/lightbend/akka/sample/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/akka-learning-kochi-pod/src/main/java/com/lightbend/akka/sample/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-quickstart-java/akka-learning-kochi-pod/src/main/java/com/lightbend/akka/sample/StudentFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/akka-quickstart-java/akka-learning-kochi-pod/src/main/java/com/lightbend/akka/sample/StudentFinder.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/akka-quickstart-java/akka-learning-kochi-pod" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YPwE7HJYuHcIql3whE1a1dL8vN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/lightbend/akka/sample" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/lightbend/akka/sample" />
+      <recent name="$PROJECT_DIR$/akka-quickstart-java/src/main/java/com/lightbend/akka" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82dbd713-0fad-4f35-bd3f-388d9b8f8f42" name="Default Changelist" comment="" />
+      <created>1582857422888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582857422888</updated>
+      <workItem from="1582857424099" duration="170000" />
+      <workItem from="1585290080106" duration="515000" />
+      <workItem from="1587380050633" duration="680000" />
+      <workItem from="1593599099932" duration="339000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="584" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587380104678">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="584" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1587380104678" />
+    <state x="653" y="200" key="#com.intellij.ide.util.MemberChooser" timestamp="1585290338577">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state x="653" y="200" key="#com.intellij.ide.util.MemberChooser/0.23.1680.976@0.23.1680.976" timestamp="1585290338577" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1582857442784">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1582857442784" />
+  </component>
+</project>
